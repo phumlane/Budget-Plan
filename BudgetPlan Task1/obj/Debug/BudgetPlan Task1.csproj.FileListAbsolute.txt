@@ -1,0 +1,13 @@
+C:\Users\Phumlane\source\repos\BudgetPlan Task1\BudgetPlan Task1\bin\Debug\BudgetPlan Task1.exe.config
+C:\Users\Phumlane\source\repos\BudgetPlan Task1\BudgetPlan Task1\bin\Debug\BudgetPlan Task1.exe
+C:\Users\Phumlane\source\repos\BudgetPlan Task1\BudgetPlan Task1\bin\Debug\BudgetPlan Task1.pdb
+C:\Users\Phumlane\source\repos\BudgetPlan Task1\BudgetPlan Task1\obj\Debug\BudgetPlan Task1.csprojAssemblyReference.cache
+C:\Users\Phumlane\source\repos\BudgetPlan Task1\BudgetPlan Task1\obj\Debug\BudgetPlan Task1.csproj.CoreCompileInputs.cache
+C:\Users\Phumlane\source\repos\BudgetPlan Task1\BudgetPlan Task1\obj\Debug\BudgetPlan Task1.exe
+C:\Users\Phumlane\source\repos\BudgetPlan Task1\BudgetPlan Task1\obj\Debug\BudgetPlan Task1.pdb
+C:\Users\Phumlane\Desktop\BudgetPlan Task1\BudgetPlan Task1\obj\Debug\BudgetPlan Task1.csprojAssemblyReference.cache
+C:\Users\Phumlane\Desktop\BudgetPlan Task1\BudgetPlan Task1\obj\Debug\UserControl1.g.cs
+C:\Users\Phumlane\Desktop\BudgetPlan Task1\BudgetPlan Task1\obj\Debug\BudgetPlan Task1_MarkupCompile.cache
+C:\Users\Phumlane\Desktop\BudgetPlan Task1\BudgetPlan Task1\obj\Debug\BudgetPlan Task1_MarkupCompile.lref
+C:\Users\Phumlane\Desktop\BudgetPlan Task1\BudgetPlan Task1\obj\Debug\BudgetPlan Task1.exe
+C:\Users\Phumlane\Desktop\BudgetPlan Task1\BudgetPlan Task1\obj\Debug\BudgetPlan Task1.pdb
